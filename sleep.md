@@ -11,6 +11,8 @@
 - Sugar and carbohydrates reduce quality of deep NREM sleep. Yet another reason not to eat that shit.
 - Consider meditating or otherwise turning off before bed.
 - Use orthopedic pillow.
+- Eat: ...
+- Don't eat: ...
 
 ## Links
 [How to biohack your intelligence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)

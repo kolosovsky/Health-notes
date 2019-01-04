@@ -1,7 +1,7 @@
 # Health-notes
 
-[Sleep](sleep.md)
+## [Sleep](sleep.md)
 
-[Sport](sleep.md)
+## [Sport](sleep.md)
 
-[Food](food.md)
+## [Food](food.md)
