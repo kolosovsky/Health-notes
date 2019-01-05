@@ -2,6 +2,11 @@
 
 ## [Sleep](sleep.md)
 
-## [Sport](sleep.md)
+## [Exercise](exercise.md)
 
-## [Food](food.md)
+## [Nutrition](nutrition.md)
+
+## [Mental](mental.md)
+
+## Rules
+- Meditate 15 minutes a day
