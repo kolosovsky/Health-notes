@@ -14,6 +14,19 @@
 - Eat organic when possible, especially when discussing animal products. 
 - Generally spend more money on food. The cheaper the food, the more “hacks” the producer used to be able to deliver that price.
 
+## Schedule
+#### Breakfast
+- Oatmeal (oatmeal, apple, raisins, nuts)
+- Millet 
+- Buckwheat
+
+#### Brunch
+
+#### Lunch
+- Fruits
+
+#### Dinner
+
 ## Links
 [I’m 32 and spent $200k on biohacking. Became calmer, thinner, extroverted, healthier & happier](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)
 
